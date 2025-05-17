@@ -1,4 +1,4 @@
-### 🐶 Server Rules [EN]
+# 🐶 Server Rules [EN]
 
 1. **Respect and Politeness**:
    - All members must respect each other. Insults, humiliation, and discrimination are prohibited.
